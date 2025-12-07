@@ -44,8 +44,8 @@ node run dev
 
 ### **Snapshots**
 
-<img width="1879" height="993" alt="Screenshot 2025-12-08 042318" src="https://github.com/user-attachments/assets/5a3e72f9-16d7-434d-8fa4-be1679a51521" />
+<img width="1000" height="993" alt="Screenshot 2025-12-08 042318" src="https://github.com/user-attachments/assets/5a3e72f9-16d7-434d-8fa4-be1679a51521" />
 
 
-<img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/254e930b-bb4d-4028-ad27-8db5b1b0fa6b" />
+<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/254e930b-bb4d-4028-ad27-8db5b1b0fa6b" />
 
