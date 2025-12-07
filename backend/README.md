@@ -9,11 +9,11 @@
    npm install
 
 2. Place your CSV file in the project root or provide its path.
-   Example: repo root contains `truestate_assignment_dataset.csv` (you already uploaded it).
+   Example: repo root contains `dataset.csv`.
 
 3. Seed the SQLite database (this may take time for 1M rows):
    # from backend/ folder
-   node src/seed.js ../truestate_assignment_dataset.csv
+   node src/seed.js ../sales.csv
 
    The script creates `backend/data.db`.
 
