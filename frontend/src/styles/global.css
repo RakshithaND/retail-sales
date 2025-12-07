@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global font */
+body {
+  @apply bg-gray-50 font-sans text-gray-800;
+  margin: 0;
+  padding: 0;
+}
